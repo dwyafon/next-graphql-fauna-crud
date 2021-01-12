@@ -5,4 +5,5 @@
 - GraphQL
 - SWR
 - graphql-request
+- CSS Modules
 
