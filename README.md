@@ -5,3 +5,5 @@
 - GraphQL
 - SWR
 - graphql-request
+
+https://medium.com/technest/crud-app-with-next-js-faunadb-and-graphql-388be7141bee
