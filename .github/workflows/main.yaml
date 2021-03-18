@@ -12,3 +12,4 @@ jobs:
     steps: 
     - id: step1
       run: echo "Hello World"
+    - uses: actions/checkout@v2
