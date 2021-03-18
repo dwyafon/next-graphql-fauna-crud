@@ -4,3 +4,11 @@ on:
   push:
     branches:
       - github-actions
+
+jobs: 
+  buildApp: 
+    name: Build Next.js app
+    runs-on: ubuntu-latest
+    steps: 
+    - id: step1
+      run: echo "Hello World"
