@@ -1,0 +1,6 @@
+name: ci-cd pipeline
+
+on:
+  push:
+    branches:
+      - github-actions
